@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.listLink {
+    display: flex;
+    justify-content: center;
+    padding: 0 2rem;
+}
+li {
+    list-style: none;
+    color: blue;
+    text-decoration: underline;
+}
+.navLink {
+    padding: 0 2rem;
+    border-right: 1px solid black;
+}
+
+.navLink:last-child {
+    border-right: none;
+}
+.titleContainer {
+    padding-top: 1rem;
+    text-align: center;
+}
+.contentContainer {
+    margin: 0 20%;
+}
+.formRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.formItem {
+    display: flex;
+}
+
+label {
+    margin-right: 1rem;
+    width: 100px;
+}
+
+input,
+textarea {
+    flex: 1;
+}

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\css\\stylecontact.css",
+      "PackagePath": "staticwebassets\\css\\stylecontact.css"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\css\\styleindex.css",
+      "PackagePath": "staticwebassets\\css\\styleindex.css"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\css\\styleprojects.css",
+      "PackagePath": "staticwebassets\\css\\styleprojects.css"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\img\\cat.jpg",
+      "PackagePath": "staticwebassets\\img\\cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\img\\catbread.jpg",
+      "PackagePath": "staticwebassets\\img\\catbread.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\img\\catmec.jpg",
+      "PackagePath": "staticwebassets\\img\\catmec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snela\\Desktop\\portfolio2\\wwwroot\\img\\catsleep.jpg",
+      "PackagePath": "staticwebassets\\img\\catsleep.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.portfolio-asp.props",
+      "PackagePath": "build\\portfolio-asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.portfolio-asp.props",
+      "PackagePath": "buildMultiTargeting\\portfolio-asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.portfolio-asp.props",
+      "PackagePath": "buildTransitive\\portfolio-asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.portfolio-asp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
